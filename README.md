@@ -1,8 +1,6 @@
 
 ### Hi there, I'm Joaco 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)][website]
-
 ## I'm a Developer, and Assistant Professor!!
 
 - 💻 I’m currently in Swiss Medical Group as Front End Developer
