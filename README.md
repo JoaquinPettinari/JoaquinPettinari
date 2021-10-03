@@ -31,6 +31,27 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][githubImage]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminalImage]
 
+<br /><br />
+
+### Proyects: 
+
+#### - Turnos UaHur
+Shift management page to organize access to the university in compliance with health protocols.
+
+[Front End](https://github.com/unahur-turnos/frontend) - [Back End](https://github.com/unahur-turnos/backend)
+<br />
+
+### Technical Tests:
+
+#### - Atexto
+[Front End](https://github.com/JoaquinPettinari/Technical-Test) - [Back End](https://github.com/JoaquinPettinari/Technical-DB)
+
+#### - Santander Tecnología
+[Front End](https://github.com/JoaquinPettinari/Beers-Test-Front) - [Back End](https://github.com/JoaquinPettinari/Beers-Test-Back)
+
+#### - Flow Factory
+[Front End](https://github.com/JoaquinPettinari/Flow-Factory-Test)
+
 [website]: https://portfolio-joaquin-pettinari.herokuapp.com/
 [linkedin]: https://www.linkedin.com/in/joaquin-pettinari/
 [instagram]: https://www.instagram.com/joacoopettinari
