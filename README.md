@@ -3,7 +3,7 @@
 
 ## I'm a Developer, and Assistant Professor!!
 
-- 💻 I’m currently in Swiss Medical Group as Front End Developer
+- 💻 I’m currently working in Swiss Medical Group as Front End Developer
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love reading and exercising
