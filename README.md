@@ -53,7 +53,7 @@ Shift management page to organize access to the university in compliance with he
 [Front End](https://github.com/JoaquinPettinari/Flow-Factory-Test)
 
 [website]: https://portfolio-joaquin-pettinari.herokuapp.com/
-[linkedin]: https://www.linkedin.com/in/joaquin-pettinari/
+[linkedin]: https://www.instagram.com/JoaquinPettinari24/
 [instagram]: https://www.instagram.com/joacoopettinari
 [reactImage]: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png
 [cssImage]: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png
