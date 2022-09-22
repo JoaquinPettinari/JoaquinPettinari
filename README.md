@@ -4,7 +4,7 @@
 ## I'm a Developer, Student and Assistant Professor!!
 
 - 💻 I’m currently working in Swiss Medical Group as Front End Developer
-- 📚 Ongoing - Studying Computer science (Master's degree) - 78% completed
+- 📚 Ongoing - Studying Computer science (Master's degree) - 90% completed
 - 🎓 Graduated in 2021 - Computer science technician (Bachelor's degree)
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Contribute more to Open Source projects
