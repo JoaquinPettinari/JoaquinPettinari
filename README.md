@@ -3,11 +3,11 @@
 
 ## I'm a Developer, Student and Assistant Professor!!
 
-- 💻 I’m currently working in Swiss Medical Group as Front End Developer
+- 💻 I’m currently working for Intel on an outsourced basis as Front End Developer
 - 📚 Ongoing - Studying Computer science (Bachelor's degree) - 90% completed
 - 🎓 Graduated in 2021 - Computer science technician (Undergraduate Degree)
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Finish the degree and travel a lot :camping:
 - ⚡ Fun fact: I love reading and exercising
 
 ### Connect with me:
