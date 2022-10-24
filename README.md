@@ -8,7 +8,7 @@
 - 🎓 Graduated in 2021 - Computer science technician (Undergraduate Degree)
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Finish the degree and travel a lot :camping:
-- ⚡ Fun fact: I love reading and exercising
+- ⚡ Fun fact: I love reading and workout
 
 ### Connect with me:
 
