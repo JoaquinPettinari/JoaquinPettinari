@@ -4,7 +4,7 @@
 ## I'm a Developer, Student and Assistant Professor!!
 
 - 💻 I’m currently working for Intel on an outsourced basis as Front End Developer
-- 📚 Ongoing - Studying Computer science (Bachelor's degree) - 90% completed
+- 📚 Ongoing - Studying Computer science (Bachelor's degree) - 98% completed
 - 🎓 Graduated in 2021 - Computer science technician (Undergraduate Degree)
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Finish the degree and travel a lot :camping:
