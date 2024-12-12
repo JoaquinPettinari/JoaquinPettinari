@@ -1,21 +1,21 @@
 
 ### Hi there, I'm Joaco 👋
 
-## I'm a Developer, Student and Assistant Professor!!
+## I'm a Developer!!
 
-- 💻 I’m currently working for Intel on an outsourced basis as Front End Developer
-- 📚 Ongoing - Studying Computer science (Bachelor's degree) - 98% completed
-- 🎓 Graduated in 2021 - Computer science technician (Undergraduate Degree)
-- 🥅 2023 Goals: Finish the degree and travel a lot :camping:
-- ⚡ Fun fact: I love reading and workout
+- 💻 I’m currently working in Blue Alba as Software Engineer.
+- 🎓 Graduated in 2024 - Bachlor's Degree in Computer science.
+- 🥅 202x Goals: Travel a lot :camping:.
+- ⚡ Fun fact: I love reading and workout.
+- 🌐 Current living in Barcelona.
 
-### Connect with me:
+### Find me in:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[Linkedin][linkedin]
 
-<br />
+### Contact me:
+
+joaquinpettinari@hotmail.com
 
 ### Languages and Tools:
 
@@ -32,29 +32,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][githubImage]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminalImage]
 
-<br /><br />
-
-### Proyects: 
-
-#### - Turnos UaHur
-Shift management page to organize access to the university in compliance with health protocols.
-
-[Front End](https://github.com/unahur-turnos/frontend) - [Back End](https://github.com/unahur-turnos/backend)
-<br />
-
-### Technical Tests:
-
-#### - Aerolab
-[Front End](https://github.com/JoaquinPettinari/Aerolab-technical-test)
-
-#### - Atexto
-[Front End](https://github.com/JoaquinPettinari/Technical-Test) - [Back End](https://github.com/JoaquinPettinari/Technical-DB)
-
-#### - Santander Tecnología
-[Front End](https://github.com/JoaquinPettinari/Beers-Test-Front) - [Back End](https://github.com/JoaquinPettinari/Beers-Test-Back)
-
-#### - Flow Factory
-[Front End](https://github.com/JoaquinPettinari/Flow-Factory-Test)
 
 [website]: https://portfolio-joaquin-pettinari.herokuapp.com/
 [linkedin]: https://www.linkedin.com/in/joaquin-pettinari/
